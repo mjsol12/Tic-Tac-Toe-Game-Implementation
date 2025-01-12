@@ -1,6 +1,8 @@
 # Tic-Tac-Toe Game
 
 A simple and interactive Tic-Tac-Toe game built using **React** with Remix framework. This project demonstrates core concepts of React state management and functional components while providing a fun and engaging user experience.
+![image](https://github.com/user-attachments/assets/39b3270e-7a2d-45e5-b368-4d467f085963)
+
 
 ## Features
 - Playable by two players (X and O).
