@@ -1,6 +1,20 @@
-# Welcome to Remix!
+# Tic-Tac-Toe Game
 
-- [Remix Docs](https://remix.run/docs)
+A simple and interactive Tic-Tac-Toe game built using **React** with Remix framework. This project demonstrates core concepts of React state management and functional components while providing a fun and engaging user experience.
+
+## Features
+- Playable by two players (X and O).
+- Automatically detects the winner or a draw.
+- Reset button to restart the game at any time.
+- Interactive grid-based UI for an intuitive gaming experience.
+
+## Project Setup
+
+### Prerequisites
+Ensure you have the following installed:
+- Node.js (>=14.x)
+- npm (>=6.x)
+- Remix ([Docs](https://remix.run/docs))
 
 ## Development
 
